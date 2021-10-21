@@ -14,13 +14,16 @@ I am German Iskhakov, forever young student from Russia. BTW I am frontend devel
 <a href="https://github.com/Pechenyice/Pechenyice">
   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pechenyice&langs_count=5&theme=tokyonight&layout=compact&hide_border=true" />
 </a>
+
+<div style="box-sizing: border-box; width: 400px; display: flex; justify-content: center; align-items: center; background: #1A1B27; border-radius: 5px; padding: 0px 25px;">
+    <div>
+        <p style="margin-top: 12px; font-size: 21px; font-weight: 600;
+        color: #70a5fd;">Portfolio Site Stats</p>
+        <img width="100%" src="./optimization.svg" alt="portfolio stats">
+    </div>
 </div>
 
-<iframe src="https://pechenyice.github.io/e-bubble/" width="100%" height="400" frameborder="0" scrolling="no">
-</iframe>
-
-
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pechenyice&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+</div>
 
 <!--
 **Pechenyice/Pechenyice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
