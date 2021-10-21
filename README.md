@@ -6,8 +6,6 @@
 
 <br/>My links u could find on portfolio site 👇
 
-<br/>
-
 ## 🤡 About
 ***
 
@@ -20,7 +18,6 @@
 - 📫 How to reach me: i'll reach u first
 - ⚡ Fun fact: i am not using Arch Linux
 
-<br/>
 <br/>
 
 ## 🥇 Statistic & Information
@@ -46,8 +43,6 @@
 <!-- <p style="margin-top: 12px; font-size: 18px; font-weight: 600; color: #70a5fd;">Portfolio Site Stats</p> -->
 
 <br/>
-<br/>
-<br/>
 
 ## 🔥 Portfolio
 ***
@@ -65,7 +60,7 @@
     <img width="600" src="./optimization.svg" alt="portfolio stats" title="portfolio stats" align="center">
 </a>
 </p>
-
+<br/>
 <!--
 **Pechenyice/Pechenyice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
