@@ -7,9 +7,6 @@
 <br/>My links u could find on portfolio site 👇
 
 ## 🤡 About
-***
-
-<br/>
 
 - 🔭 I’m currently working on my [diplom project](https://github.com/Pechenyice/diplomWeb)
 - 🌱 I’m currently learning React, Redux and TypeScript
@@ -18,10 +15,7 @@
 - 📫 How to reach me: i'll reach u first
 - ⚡ Fun fact: i am not using Arch Linux
 
-<br/>
-
 ## 🥇 Statistic & Information
-***
 
 <br/>
 
@@ -38,14 +32,10 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pechenyice&langs_count=5&theme=tokyonight&layout=compact&hide_border=true" align="center" />
 </a>
 </div>
-    
-<!-- </div> -->
-<!-- <p style="margin-top: 12px; font-size: 18px; font-weight: 600; color: #70a5fd;">Portfolio Site Stats</p> -->
 
 <br/>
 
 ## 🔥 Portfolio
-***
 
 <br/>
 
@@ -60,18 +50,3 @@
     <img width="600" src="./optimization.svg" alt="portfolio stats" title="portfolio stats" align="center">
 </a>
 </p>
-<br/>
-<!--
-**Pechenyice/Pechenyice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
