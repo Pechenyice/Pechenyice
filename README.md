@@ -1,8 +1,8 @@
 # Hi there <img src="./hello.gif" width="30px">
 
 ### I am German Iskhakov, forever young student from Russia. BTW I am frontend developer.
-<br/>**Study roadmap**: TypeScript, React, React Native, Kubernetes, MongoDB, GraphQL, Linux, CI/CD, auto testing
-<br/><br/>**Retrospective**: JavaScript, React, Redux, Dart, MySQL, RabbitMQ, Node.js, Docker, Electron, REST, RPC, Unit testing with jest, enzyme and React Testing library (ye-a, almoust fullstack, u know?)
+<br/>**Study roadmap**: React Native, Kubernetes, MongoDB, GraphQL, Linux, CI/CD
+<br/><br/>**Retrospective**: JavaScript, React, TypeScript, Redux, MySQL, RabbitMQ, Node.js, Docker, Electron, REST, RPC, Unit testing with jest, enzyme and React Testing library, Auto testing with Puppeteer and Cypress (ye-a, almoust fullstack, u know?)
 
 <br/>My links u could find on portfolio site 👇
 
