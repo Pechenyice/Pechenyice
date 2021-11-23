@@ -1,7 +1,8 @@
 # Hi there <img src="./hello.gif" width="30px">
 
 ### I am German Iskhakov, forever young student from Russia. BTW I am frontend developer.
-<br/>**Study roadmap**: React Native, Kubernetes, MongoDB, GraphQL, Linux, CI/CD
+
+<br/>**Study roadmap**: React Native, Kubernetes, MongoDB, GraphQL, Linux, CI/CD, Clean Code, React from the inside
 <br/><br/>**Retrospective**: JavaScript, React, TypeScript, Redux, MySQL, RabbitMQ, Node.js, Docker, Electron, REST, RPC, Unit testing with jest, enzyme and React Testing library, Auto testing with Puppeteer and Cypress (ye-a, almoust fullstack, u know?)
 
 <br/>My links u could find on portfolio site 👇
@@ -9,8 +10,8 @@
 ## 🤡 About
 
 - 🔭 I’m currently working on my [diplom project](https://github.com/Pechenyice/diplomWeb)
-- 🌱 I’m currently learning React, Redux and TypeScript
-- 🤔 I’m looking for help with Docker and Kubernetes
+- 🌱 I’m currently learning working with Linux and Kubernetes
+- 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about how to write bad code, i am good at it :)
 - 📫 How to reach me: i'll reach u first
 - ⚡ Fun fact: i am not using Arch Linux
