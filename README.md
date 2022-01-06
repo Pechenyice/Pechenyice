@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about how to write bad code, i am good at it :)
 - 📫 How to reach me: i'll reach u first
-- ⚡ Fun fact: i am not using Arch Linux
+- ⚡ I just got as a gift a personal duck Gennady
 
 ## 🥇 Statistic & Information
 
