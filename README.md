@@ -3,7 +3,7 @@
 ### I am German Iskhakov, forever young student from Russia. BTW I am frontend developer.
 
 <br/>**Study roadmap**: React Native, Kubernetes, GraphQL, Linux, CI/CD
-<br/><br/>**Retrospective**: JavaScript, React (and small local implementation), Webpack, TypeScript, Redux, MySQL, RabbitMQ, Node.js, CSS-preprocessors, Docker, Electron, REST, RPC, Unit testing with jest, enzyme and React Testing library, Auto testing with Puppeteer and Cypress (ye-a, almoust fullstack, u know?)
+<br/><br/>**Retrospective**: JavaScript, React (and small local implementation), Next.js, Webpack, TypeScript, Redux, MySQL, RabbitMQ, Node.js, CSS-preprocessors, Docker, Electron, REST, RPC, Unit testing with jest, enzyme and React Testing library, Auto testing with Puppeteer and Cypress (ye-a, almoust fullstack, u know?)
 
 <br/>My links u could find on portfolio site 👇
 
