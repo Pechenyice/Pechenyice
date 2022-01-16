@@ -9,6 +9,7 @@
 
 ## 🤡 About
 
+- 🏁 I just finished [Clio Quartet landing](https://github.com/Pechenyice/quartetLanding) project, view [deployment](https://pechenyice.github.io/quartetLanding/)
 - 🔭 I’m currently working on my [diplom project](https://github.com/Pechenyice/diplomWeb)
 - 🌱 I’m currently learning to work with Linux
 - 🌱 I’m currently trying to read articles about React from the inside
