@@ -9,14 +9,11 @@
 
 ## 🤡 About
 
-- 🔬 Just became a trainee at ITMO web-department
 - 🏁 I just finished [Clio Quartet landing](https://github.com/Pechenyice/quartetLanding) project, view [deployment](https://pechenyice.github.io/quartetLanding/)
 - 🔭 I’m currently working on my [diplom project](https://github.com/Pechenyice/diplomWeb)
 - 🌱 I’m currently learning to work with Linux
 - 🌱 I’m currently trying to read articles about React from the inside
-- 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about how to write bad code, i am good at it :)
-- 📫 How to reach me: i'll reach u first
 - ⚡ I just got as a gift a personal duck Gennady
 
 ## 🥇 Statistic & Information
