@@ -10,7 +10,7 @@
 ## 🤡 About
 
 - 🏁 I just finished [Clio Quartet landing](https://github.com/Pechenyice/quartetLanding) project, view [deployment](https://pechenyice.github.io/quartetLanding/)
-- 🔭 I’m currently working on my [diplom project](https://github.com/Pechenyice/diplomWeb)
+- 🔭 I’m currently working at _too much_ projects and preparing to present my [diplom project](https://github.com/Pechenyice/diplomWeb) in the same time
 - 🌱 I’m currently learning to work with Linux
 - 🌱 I’m currently trying to read articles about React from the inside
 - 💬 Ask me about how to write bad code, i am good at it :)
